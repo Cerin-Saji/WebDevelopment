@@ -1,3 +1,4 @@
 # WebDevelopment
 Screenshot of developed webpage
-![alt text](https://github.com/[Cerin-Saji]/[WebDevelopment]/blob/[main]/webdev.jpg?raw=true)
+![webdev](https://user-images.githubusercontent.com/117729068/217992085-f1190ba2-2f78-4d28-a5c5-46b94d5671ef.jpg)
+
